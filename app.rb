@@ -1,8 +1,8 @@
 require 'sinatra'
 require "sinatra/reloader" if development?
 
-get '/cat'do
-@name = ["Amigo", "Misty", "Almond"].sample
+get '/named-cat'do
+@name = params[:name]
   erb(:index)
 end
 
