@@ -33,19 +33,19 @@ Create a basic web application using Sinatra, HTTP, response-request mechanisms,
 
 #### Challenges
 
-[The Web: An Introduction]
-* [The Hypertext Transfer Protocol (HTTP)]
-* [HTTP: Parameters]
-* [HTTP: GET / POST Requests]
-* [Sinatra: Getting Started]
-* [Sinatra: Defining a route]
-* [Sinatra: Start and Restart]
-* [Sinatra: Returning HTML]
-* [Sinatra: Views]
-* [Sinatra: `erb`]
-* [Sinatra: Keeping views clean]
-* [Sinatra: Introducing `params`]
-* [Sinatra: Using forms]
-* [Sinatra: `POST`ed `params`]
-* [Sinatra: using the Chrome DevTools]
-* [Testing with an Automated Browser and Capybara]
+The Web: An Introduction
+* The Hypertext Transfer Protocol (HTTP)
+* HTTP: Parameters
+* HTTP: GET / POST Requests
+* Sinatra: Getting Started
+* Sinatra: Defining a route
+* Sinatra: Start and Restart
+* Sinatra: Returning HTML
+* Sinatra: Views
+* Sinatra: `erb`
+* Sinatra: Keeping views clean
+* Sinatra: Introducing `params`
+* Sinatra: Using forms
+* Sinatra: `POST`ed `params`
+* Sinatra: using the Chrome DevTools
+* Testing with an Automated Browser and Capybara
